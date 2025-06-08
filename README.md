@@ -1,11 +1,12 @@
 # Spring
 <img align="right" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8i4zPog-0j0JR_yZglxPhTPZXxN2iMTQ3Dw&s">
+Este pojeto foi criado para um desafio DIOEste projeto é um desafio da DIO para praticar o processo de criação e configuração de API REST na Nuvem Usando Spring Boot, Java e Railway.
 
 Uma API REST funciona como um intermediário entre sistemas. Quando você faz um pedido, como solicitar informações, ela processa e devolve a resposta adequada, tudo isso através da internet seguindo padrões simples de comunicação.
 
-Spring Boot 3 é uma ferramenta que facilita muito a criação de APIs. Ele organiza o trabalho e cuida automaticamente de configurações complexas, permitindo que você se concentre apenas na parte importante do desenvolvimento.
+Spring Boot  é uma ferramenta que facilita muito a criação de APIs. Ele organiza o trabalho e cuida automaticamente de configurações complexas, permitindo que você se concentre apenas na parte importante do desenvolvimento.
 
-Java 17 é a linguagem de programação utilizada nesse processo. Ela é atualizada, oferece segurança e combina perfeitamente com o Spring Boot 3.
+Java  é a linguagem de programação utilizada nesse processo. Ela é atualizada, oferece segurança e combina perfeitamente com o Spring Boot 3.
 
 Railway é o serviço que hospeda sua API na internet. Ele elimina a necessidade de configurar servidores complicados - cuida de tudo, desde a publicação da aplicação até a conexão com bancos de dados, e ainda adapta automaticamente a capacidade conforme a demanda.
 
